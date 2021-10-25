@@ -1,0 +1,4 @@
+*.csv
+*.ipynb
+configuration.json
+*.ipynb_checkpoints
