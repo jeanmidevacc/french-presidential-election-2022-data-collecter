@@ -1,0 +1,330 @@
+{
+    "narthaud" : {
+        "name" : "Nathalie Arthaud",
+        "group" : "Extrême gauche",
+        "party" : "Lutte ouvrière (LO)",
+        "status" : 1,
+        "twitter_account" : ["@n_arthaud", "@LutteOuvriere"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/arthaud@1x.png"
+    },
+    "akazib" : {
+        "name" : "Anasse Kazib",
+        "group" : "Extrême gauche",
+        "party" : "Révolution permanente",
+        "status" : 1,
+        "twitter_account" : ["@AnasseKazib", "@RevPermanente"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/kazib@1x.png"
+    },
+    "ppoutou" : {
+        "name" : "Philippe Poutou",
+        "group" : "Extrême gauche",
+        "party" : "Nouveau parti anticapitaliste (NPA)",
+        "status" : 1,
+        "twitter_account" : ["@PhilippePoutou", "@NPA_officiel"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/poutou@1x.png"
+    },
+    "jmelenchon" : {
+        "name" : "Jean-Luc Mélenchon",
+        "group" : "Gauche radicale",
+        "party" : "La France insoumise (LFI)",
+        "status" : 1,
+        "twitter_account" : ["@JLMelenchon", "@FranceInsoumise"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/melenchon@1x.png"
+    },
+    "froussel" : {
+        "name" : "Fabien Roussel",
+        "group" : "Gauche radicale",
+        "party" : "Parti communiste français (PCF)",
+        "status" : 1,
+        "twitter_account" : ["@Fabien_Roussel", "@PCF"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/roussel@1x.png"
+    },
+    "plarrouturou" : {
+        "name" : "Pierre Larrouturou",
+        "group" : "Gauche modérée",
+        "party" : "Nouvelle Donne",
+        "status" : 1,
+        "twitter_account" : ["@larrouturou", "@Nouvelle_Donne"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/larrouturou@1x.png"
+    },
+    "amontebourg" : {
+        "name" : "Arnaud Montebourg",
+        "group" : "Gauche modérée",
+        "party" : "Ex-Parti socialiste",
+        "status" : 1,
+        "twitter_account" : ["@montebourg"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/montebourg@1x.png"
+    },
+    "ahidalgo" : {
+        "name" : "Anne Hidalgo",
+        "group" : "Gauche modérée",
+        "party" : "Parti socialiste (PS)",
+        "status" : 1,
+        "twitter_account" : ["@Anne_Hidalgo", "@partisocialiste"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/hidalgo@1x.png"
+    },
+    "yjadot" : {
+        "name" : "Yannick Jadot",
+        "group" : "Écologistes",
+        "party" : "Europe Ecologie-Les Verts (EELV)",
+        "status" : 1,
+        "twitter_account" : ["@yjadot", "@EELV"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/jadot@1x.png"
+    },
+    "awaechter" : {
+        "name" : "Antoine Waechter",
+        "group" : "Écologistes",
+        "party" : "Mouvement écologiste indépendant (MEI)",
+        "status" : 1,
+        "twitter_account" : ["@Waechter2022"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/waechter@1x.png"
+    },
+    "jlagarde" : {
+        "name" : "Jean-Christophe Lagarde",
+        "group" : "Centre",
+        "party" : "Union des démocrates et indépendants (UDI)",
+        "status" : 0,
+        "twitter_account" : ["@jclagarde", "@UDI_off"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/lagarde@1x.png"
+    },
+    "emacron" : {
+        "name" : "Emmanuel Macron",
+        "group" : "Centre",
+        "party" : "La République en marche (LRM)",
+        "status" : 0,
+        "twitter_account" : ["@EmmanuelMacron", "@enmarchefr"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/macron@1x.png"
+    },
+    "xbertrand" : {
+        "name" : "Xavier Bertrand",
+        "group" : "Droite",
+        "party" : "Divers droite",
+        "status" : 1,
+        "twitter_account" : ["@xavierbertrand"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/bertrand@1x.png"
+    },
+    "vpecresse" : {
+        "name" : "Valérie Pécresse",
+        "group" : "Droite",
+        "party" : "Libres !",
+        "status" : 1,
+        "twitter_account" : ["@vpecresse"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/pecresse@1x.png"
+    },
+    "pjuvin" : {
+        "name" : "Philippe Juvin",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : 1,
+        "twitter_account" : ["@philippejuvin", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/juvin@1x.png"
+    },
+    "eciotti" : {
+        "name" : "Eric Ciotti",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : 1,
+        "twitter_account" : ["@ECiotti", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/ciotti@1x.png"
+    },
+    "mbarnier" : {
+        "name" : "Michel Barnier",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : 1,
+        "twitter_account" : ["@MichelBarnier", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/barnier@1x.png"
+    },
+    "dpayre" : {
+        "name" : "Denis Payre",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : 1,
+        "twitter_account" : ["@DenisPayre", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/payre@1x.png"
+    },
+    "jpoisson" : {
+        "name" : "Jean-Frédéric Poisson",
+        "group" : "Droite",
+        "party" : "VIA, la voie du peuple",
+        "status" : 1,
+        "twitter_account" : ["@jfpoisson78", "@via_officiel"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/poisson@1x.png"
+    },
+    "jmouraud" : {
+        "name" : "Jacline Mouraud",
+        "group" : "Droite",
+        "party" : "Indépendante",
+        "status" : 1,
+        "twitter_account" : ["@JaclineMouraud"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/moureaud@1x.png"
+    },
+    "mlepen" : {
+        "name" : "Marine Le Pen",
+        "group" : "Extrême droite",
+        "party" : "Rassemblement national (RN)",
+        "status" : 1,
+        "twitter_account" : ["@MLP_officiel", "@RNational_off"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/mlepen@1x.png"
+    },
+    "amartinez" : {
+        "name" : "Antoine Martinez",
+        "group" : "Extrême droite",
+        "party" : "Volontaires pour la France (VPF)",
+        "status" : 1,
+        "twitter_account" : ["@antoine27955080", "@VPF_France"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/martinez@1x.png"
+    },
+    "ndupontaignant" : {
+        "name" : "Nicolas Dupont-Aignan",
+        "group" : "Extrême droite",
+        "party" : "Debout la France (DLF)",
+        "status" : 1,
+        "twitter_account" : ["@dupontaignan", "@DLF_Officiel"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/dupont-aignan@1x.png"
+    },
+    "fphilippot" : {
+        "name" : "Florian Philippot",
+        "group" : "Extrême droite",
+        "party" : "Les Patriotes",
+        "status" : 1,
+        "twitter_account" : ["@f_philippot", "@_LesPatriotes"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/philippot@1x.png"
+    },
+    "ezemmour" : {
+        "name" : "Eric Zemmour",
+        "group" : "Extrême droite",
+        "party" : "Indépendant",
+        "status" : 0,
+        "twitter_account" : ["@ZemmourEric"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/zemmour@1x.png"
+    },
+    "fasselineau" : {
+        "name" : "François Asselineau",
+        "group" : "Divers",
+        "party" : "Union populaire républicaine (UPR)",
+        "status" : 1,
+        "twitter_account" : ["@UPR_Asselineau", "@UPR_Officiel"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/asselineau@1x.png"
+    },
+    "jlassalle" : {
+        "name" : "Jean Lassalle",
+        "group" : "Divers",
+        "party" : "Résistons",
+        "status" : 1,
+        "twitter_account" : ["@jeanlassalle", "@ResistonsFrance"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/lassalle@1x.png"
+    },
+    "mcau" : {
+        "name" : "Marie Cau",
+        "group" : "Divers",
+        "party" : "Indépendante",
+        "status" : 1,
+        "twitter_account" : [],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/cau@1x.png"
+    },
+    "cegger" : {
+        "name" : "Clara Egger",
+        "group" : "Divers",
+        "party" : "Espoir RIC 2022",
+        "status" : 1,
+        "twitter_account" : ["@ClaraEgger1", "@espoirRIC2022"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/egger@1x.png"
+    },
+    "alanglois" : {
+        "name" : "Alexandre Langlois",
+        "group" : "Divers",
+        "party" : "Refondation 2022",
+        "status" : 1,
+        "twitter_account" : ["@AlexLanglois_"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/langlois@1x.png"
+    },
+    "hthouy" : {
+        "name" : "Hélène Thouy",
+        "group" : "Divers",
+        "party" : "Parti animaliste",
+        "status" : 1,
+        "twitter_account" : ["@HeleneThouy", "@PartiAnimaliste"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/thouy@1x.png"
+    },
+    "gkuzmanovic" : {
+        "name" : "Georges Kuzmanovic",
+        "group" : "Divers",
+        "party" : "République souveraine",
+        "status" : 1,
+        "twitter_account" : ["@Vukuzman", "@RSouveraine"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/Kuzmanovic@1x.png"
+    },
+    "fgrimal" : {
+        "name" : "Fabrice Grimal",
+        "group" : "Divers",
+        "party" : "La Concorde citoyenne",
+        "status" : 1,
+        "twitter_account" : ["@FabriceGrimal", "@LCC2022"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/grimal@1x.png"
+    },
+    "bretailleau" : {
+        "name" : "Bruno Retailleau",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : -1,
+        "twitter_account" : ["@BrunoRetailleau", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/retailleau@1x.png"
+    },
+    "lwauquiez" : {
+        "name" : "Laurent Wauquiez",
+        "group" : "Droite",
+        "party" : "Les Républicains (LR)",
+        "status" : -1,
+        "twitter_account" : ["@laurentwauquiez", "@lesRepublicains"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/wauquiez@1x.png"
+    },
+    "sroyal" : {
+        "name" : "Ségolène Royal",
+        "group" : "Gauche modérée",
+        "party" : "Parti socialiste (PS)",
+        "status" : -1,
+        "twitter_account" : ["@RoyalSegolene", "@partisocialiste"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/royal@1x.png"
+    },
+    "slefoll" : {
+        "name" : "Stéphane Le Foll",
+        "group" : "Gauche modérée",
+        "party" : "Parti socialiste (PS)",
+        "status" : -1,
+        "twitter_account" : ["@SLeFoll", "@partisocialiste"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/lefoll@1x.png"
+    },
+    "srousseau" : {
+        "name" : "Sandrine Rousseau",
+        "group" : "Écologistes",
+        "party" : "Europe Ecologie-Les Verts (EELV)",
+        "status" : -1,
+        "twitter_account" : ["@sandrousseau", "@EELV"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/rousseau@1x.png"
+    },
+    "epiolle" : {
+        "name" : "Eric Piolle",
+        "group" : "Écologistes",
+        "party" : "Europe Ecologie-Les Verts (EELV)",
+        "status" : -1,
+        "twitter_account" : ["@EricPiolle", "@EELV"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/piolle@1x.png"
+    },
+    "jgovernatori" : {
+        "name" : "Jean-Marc Governatori",
+        "group" : "Écologistes",
+        "party" : "Cap écologie",
+        "status" : -1,
+        "twitter_account" : ["@JM_Governatori", "@CapEcologie"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/governatori@1x.png"
+    },
+    "dbatho" : {
+        "name" : "Delphine Batho",
+        "group" : "Écologistes",
+        "party" : "Génération écologie",
+        "status" : -1,
+        "twitter_account" : ["@delphinebatho", "@GEcologie"],
+        "image" : "https://assets-decodeurs.lemonde.fr/decodeurs/assets/candidats_presidentielle_2022/batho@1x.png"
+    }
+}
