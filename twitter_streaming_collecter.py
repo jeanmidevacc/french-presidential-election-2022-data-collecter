@@ -81,6 +81,6 @@ if __name__ == '__main__':
 
     s3_client = boto3.client('s3', aws_access_key_id=configuration["aws"]["key"], aws_secret_access_key=configuration["aws"]["secret"])
     partition = collecter.start_date.strftime('%Y%m%d')
-    response = s3_client.upload_file("tmp" + file_extension, 'jmdaignan.frenchpresidential2022', f'data/raw/twitter/{partition}/{file_name}')
+    response = s3_client.upload_file("tmp" + file_extension, configuration["aws"]["bucket"], f'data/raw/twitter/{partition}/{file_name}')
     print(datetime.utcnow())
     print('DONE')
