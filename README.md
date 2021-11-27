@@ -10,4 +10,4 @@ There is some details on the contents of this repository:
 * `environment.yml`: Anaconda environment YAML file
 
 
-More details on the pipeline [here](https://www.the-odd-dataguy.com/)
+More details on the pipeline [here](https://www.the-odd-dataguy.com/2021/11/27/data-pipeline-french-presidential-election/)
