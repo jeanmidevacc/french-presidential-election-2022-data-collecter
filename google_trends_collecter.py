@@ -53,7 +53,7 @@ if __name__ == '__main__':
     for key, item in candidates.items():
         print(key, item["name"])
         kw_list = [item["name"]]
-        file_name = f"{key}{file_extension}"
+        file_name = f"{key}_{date_collect}{file_extension}"
 
         if area == "fr":
             pytrends.build_payload(kw_list, cat=0, timeframe=timeframe, geo='FR')
